@@ -1,66 +1,49 @@
 class Solution {
 public:
     int myAtoi(string s) {
-        int n = s.size();
-
-        char sign = '+';
-        string ans;
-        int i = 0, a = 0;
-
-        for (i = 0; i < n; i++) {
-            if (s[i] == ' ') {
-                continue;
-            } 
-            else if (s[i] == '+' || s[i] == '-') {
-                sign = s[i];
-                a = 1;
-                break;
-            } 
-            else if (isalpha(s[i])) {
-                return 0;
-            } 
-            else {
-                break;
-            }
+        if (s.empty()) {
+            return 0;
         }
-
-        bool b = false;
-        int j = i;
-        if (a)   j = i + 1;
-
-        for (j; j < n; j++) {
-            if (!isdigit(s[j]))    break;
-            if (!b && (s[j] - '0') == 0) {   
-                continue;
-            } 
-            else {
-                b = true;
-                ans += s[j];
-            }
-        }
-
-        int m = ans.size();
-        i = 0;
-        long long val = 0;
-
-        while (i < m) {
-            int digit = ans[i] - '0';
-            if (val > (long long)INT_MAX + 1)
-                break;
-            val = val * 10 + digit;
+        
+        int i = 0;
+        int n = s.length();
+        
+        // Step 1: Skip leading whitespace
+        while (i < n && s[i] == ' ') {
             i++;
         }
-
-        if (sign == '-') {
-            if (val > (long long)INT_MAX + 1)
-                return INT_MIN;
-            return -val;
-        } 
-        else {
-            if (val > INT_MAX)
-                return INT_MAX;
-            return val;
+        
+        // Check if we've reached the end
+        if (i == n) {
+            return 0;
         }
-        return 0;
+        
+        // Step 2: Check for sign
+        int sign = 1;
+        if (s[i] == '+') {
+            i++;
+        } else if (s[i] == '-') {
+            sign = -1;
+            i++;
+        }
+        
+        // Step 3: Read digits and convert
+        long long res = 0;
+        while (i < n && isdigit(s[i])) {
+            int digit = s[i] - '0';
+            res = res * 10 + digit;
+            
+            if (sign * res <= INT_MIN) {
+                return INT_MIN;
+            }
+            if (sign * res >= INT_MAX) {
+                return INT_MAX;
+            }
+            
+            i++;
+        }
+        
+        // Step 4: Apply sign and return
+        return static_cast<int>(res * sign);     
     }
 };
