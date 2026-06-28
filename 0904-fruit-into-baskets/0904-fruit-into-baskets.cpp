@@ -9,7 +9,7 @@ public:
 
         while (r < n) {
             m[fruits[r]]++;
-            while (m.size() > 2) {
+            if(m.size() > 2) {
                 m[fruits[l]]--;
                 if (m[fruits[l]] == 0) {
                     m.erase(fruits[l]);
