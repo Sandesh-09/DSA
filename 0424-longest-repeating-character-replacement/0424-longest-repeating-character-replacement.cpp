@@ -13,7 +13,7 @@ public:
 
             c = max(c, v[s[r] - 'A']);
 
-            while ((r - l + 1) - c > k) {
+            if((r - l + 1) - c > k) {
                 v[s[l] - 'A']--;
                 l++;
             }
