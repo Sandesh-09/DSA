@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sandesh-09/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/Sandesh-09/DSA/tree/master/0062-unique-paths) |
 ## Counting
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Sandesh-09/DSA/tree/master/0062-unique-paths) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sandesh-09/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sorting
 |  |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sandesh-09/DSA/tree/master/0020-valid-parentheses) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Sandesh-09/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
