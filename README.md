@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sandesh-09/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/Sandesh-09/DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Sandesh-09/DSA/tree/master/0063-unique-paths-ii) |
 ## Counting
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Sandesh-09/DSA/tree/master/0063-unique-paths-ii) |
 | [0904-fruit-into-baskets](https://github.com/Sandesh-09/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sandesh-09/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sandesh-09/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Sandesh-09/DSA/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/Sandesh-09/DSA/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
