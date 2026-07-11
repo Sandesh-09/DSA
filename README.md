@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sandesh-09/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Sandesh-09/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Sandesh-09/DSA/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Sandesh-09/DSA/tree/master/0044-wildcard-matching) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sandesh-09/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sandesh-09/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Sandesh-09/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sandesh-09/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/Sandesh-09/DSA/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Sandesh-09/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Sandesh-09/DSA/tree/master/0063-unique-paths-ii) |
 | [1463-cherry-pickup-ii](https://github.com/Sandesh-09/DSA/tree/master/1463-cherry-pickup-ii) |
@@ -95,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Sandesh-09/DSA/tree/master/0063-unique-paths-ii) |
 | [1463-cherry-pickup-ii](https://github.com/Sandesh-09/DSA/tree/master/1463-cherry-pickup-ii) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Sandesh-09/DSA/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Sandesh-09/DSA/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
