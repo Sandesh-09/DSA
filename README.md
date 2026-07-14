@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Sandesh-09/DSA/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sandesh-09/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0496-next-greater-element-i](https://github.com/Sandesh-09/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Sandesh-09/DSA/tree/master/0503-next-greater-element-ii) |
 | [0904-fruit-into-baskets](https://github.com/Sandesh-09/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sandesh-09/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sandesh-09/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sandesh-09/DSA/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Sandesh-09/DSA/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Sandesh-09/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Sandesh-09/DSA/tree/master/0503-next-greater-element-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -119,4 +121,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Sandesh-09/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Sandesh-09/DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
