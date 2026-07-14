@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sandesh-09/DSA/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Sandesh-09/DSA/tree/master/0155-min-stack) |
 ## Combinatorics
 |  |
 | ------- |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Sandesh-09/DSA/tree/master/0044-wildcard-matching) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Sandesh-09/DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
