@@ -1,53 +1,28 @@
 class Solution {
 public:
-    vector<int> find_nse(vector<int>& heights){
-        int n=heights.size();
-        stack<int>s;
-        vector<int>v(n);
-        for(int i=n-1;i>=0;i--){
-            while(!s.empty() && heights[s.top()]>=heights[i]){
-                s.pop();
-            }
-            if(s.empty()){
-                v[i]=n;
-            }
-            else{
-                v[i]=s.top();
-            }
-            s.push(i);
-        }
-        return v;
-    }
-    vector<int> find_pse(vector<int>& heights){
-        int n=heights.size();
-        stack<int>s;
-        vector<int>v(n);
-        for(int i=0;i<n;i++){
-            while(!s.empty() && heights[s.top()]>=heights[i]){
-                s.pop();
-            }
-            if(s.empty()){
-                v[i]=-1;
-            }
-            else{
-                v[i]=s.top();
-            }
-            s.push(i);
-        }
-        return v;
-    }
+    
     int largestRectangleArea(vector<int>& heights) {
         int n=heights.size();
         int ans=0;
-        vector<int>nse=find_nse(heights);
-        vector<int>pse=find_pse(heights);
+        stack<int>s;
 
         for(int i=0;i<n;i++){
-            int right=nse[i]-i;
-            int left=i-pse[i];
-            int area=heights[i]*(right+left-1);
-            ans=max(ans,area);
+            while(!s.empty() && heights[s.top()]>=heights[i]){
+                int el=heights[s.top()];
+                s.pop();
+                int nse=i;
+                int pse=s.empty()?-1:s.top();
+                ans=max(ans,el*(nse-pse-1));
+            }
+            s.push(i);
         }
+        while(!s.empty()){
+                int el=heights[s.top()];
+                s.pop();
+                int nse=n;
+                int pse=s.empty()?-1:s.top();
+                ans=max(ans,el*(nse-pse-1));
+            }
         return ans;
     }
 };
