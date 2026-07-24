@@ -11,67 +11,67 @@
  */
 class Solution {
 public:
-void build(TreeNode* root, vector<vector<int>>& adj) {
-        if (root == NULL)
-            return;
 
-        if (root->left) {
-            adj[root->val].push_back(root->left->val);
-            adj[root->left->val].push_back(root->val);
-            build(root->left, adj);
+    void findParent(TreeNode* root,unordered_map<TreeNode*,TreeNode*>&parent){
+        if(root==NULL) return;
+        if(root->left){
+            parent[root->left]=root;
         }
-
-        if (root->right) {
-            adj[root->val].push_back(root->right->val);
-            adj[root->right->val].push_back(root->val);
-            build(root->right, adj);
+        if(root->right){
+            parent[root->right]=root;
         }
+        findParent(root->left,parent);
+        findParent(root->right,parent);
     }
-    
-    // void f(TreeNode* root, int start,TreeNode*st){
-    //     if(root==NULL) return ;
-    //     if(root->val==start){
-    //         st=root;
-    //         return;
-    //     }
-    //     f(root->left,start,st);
-    //     f(root->right,start,st);
-    // }
-    
+
+    void findStartNode(TreeNode* root, int start,TreeNode* &st){
+        if(root==NULL) return ;
+        if(root->val==start){
+            st=root;
+            return;
+        }
+        findStartNode(root->left,start,st);
+        findStartNode(root->right,start,st);
+    }
+
     int amountOfTime(TreeNode* root, int start) {
-        vector<vector<int>> adj(1e5+1);
-        build(root, adj);
+        if(root==NULL) return 0;
+        unordered_map<TreeNode*,TreeNode*>parent;
+        findParent(root,parent);
+        
+        TreeNode*st;
+        findStartNode(root,start,st);
 
-        // TreeNode*st;
-        // f(root,start,st);
+        queue<TreeNode*>q;
+        q.push(st);
+        int ans=0;
+        
+        unordered_map<TreeNode*,int>vis;
+        vis[st]=1;
 
-        queue<int> q;
-        vector<int> vis(1e5+1, 0);
+        while(!q.empty()){
+            int size=q.size();
+            ans++;
 
-        q.push(start);
-        vis[start] = 1;
-
-        int dist = 0;
-
-        while (!q.empty()) {
-            int sz = q.size();
-
-            while (sz--) {
-                int node = q.front();
+            for(int i=0;i<size;i++){
+                TreeNode* cur=q.front();
                 q.pop();
-
-                for (int nbr : adj[node]) {
-                    if (!vis[nbr]) {
-                        vis[nbr] = 1;
-                        q.push(nbr);
-                    }
+                
+                if(cur->left && !vis[cur->left]){
+                    q.push(cur->left);
+                    vis[cur->left]=1;
+                }
+                if(cur->right && !vis[cur->right]){
+                    q.push(cur->right);
+                    vis[cur->right]=1;
+                }
+                if(parent[cur] && !vis[parent[cur]]){
+                    q.push(parent[cur]);
+                    vis[parent[cur]]=1;
                 }
             }
-
-            dist++;
+            
         }
-
-        
-        return dist-1;
+        return ans-1;
     }
 };
