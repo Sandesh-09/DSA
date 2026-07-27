@@ -11,27 +11,16 @@
  */
 class Solution {
 public:
-
-    TreeNode* f(vector<int>& preorder,int prestart, int preend, vector<int>&inorder, int instart, int inend,unordered_map<int,int>&m){
-        if(prestart>preend || instart>inend) return NULL;
-        TreeNode* root=new TreeNode(preorder[prestart]);
-        int inroot=m[preorder[prestart]];
-        int numsleft=inroot-instart;
-        root->left=f(preorder,prestart+1,prestart+numsleft,inorder,instart,inroot-1,m);
-        root->right=f(preorder,prestart+numsleft+1,preend,inorder,inroot+1,inend,m);
+    TreeNode* f(vector<int>& preorder, int& i, int bound){
+        if(i>=preorder.size() || preorder[i]>bound) return NULL;
+        TreeNode* root=new TreeNode(preorder[i]);
+        i++;
+        root->left=f(preorder,i,root->val);
+        root->right=f(preorder,i,bound);
         return root;
     }
-
     TreeNode* bstFromPreorder(vector<int>& preorder) {
-        int n=preorder.size();
-        vector<int>inorder=preorder;
-        sort(inorder.begin(),inorder.end());
-        
-        unordered_map<int,int>m;
-        for(int i=0;i<n;i++){
-            m[inorder[i]]=i;
-        }
-
-        return f(preorder,0,n-1,inorder,0,n-1,m);
+        int i=0;
+        return f(preorder,i,INT_MAX);
     }
 };
