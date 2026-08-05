@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sandesh-09/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1991-find-the-middle-index-in-array](https://github.com/Sandesh-09/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sandesh-09/DSA/tree/master/2104-sum-of-subarray-ranges) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/Sandesh-09/DSA/tree/master/2210-count-hills-and-valleys-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
