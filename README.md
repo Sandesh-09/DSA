@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Sandesh-09/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sandesh-09/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Sandesh-09/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Sandesh-09/DSA/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Sandesh-09/DSA/tree/master/0044-wildcard-matching) |
 | [0257-binary-tree-paths](https://github.com/Sandesh-09/DSA/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/Sandesh-09/DSA/tree/master/0402-remove-k-digits) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sandesh-09/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Sandesh-09/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sandesh-09/DSA/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Sandesh-09/DSA/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Sandesh-09/DSA/tree/master/0062-unique-paths) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sandesh-09/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Sandesh-09/DSA/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Sandesh-09/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Sandesh-09/DSA/tree/master/0047-permutations-ii) |
 | [0257-binary-tree-paths](https://github.com/Sandesh-09/DSA/tree/master/0257-binary-tree-paths) |
@@ -259,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/Sandesh-09/DSA/tree/master/2685-count-the-number-of-complete-components) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Sandesh-09/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
