@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/Sandesh-09/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sandesh-09/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Sandesh-09/DSA/tree/master/2210-count-hills-and-valleys-in-an-array) |
+| [2974-minimum-number-game](https://github.com/Sandesh-09/DSA/tree/master/2974-minimum-number-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Sandesh-09/DSA/tree/master/0047-permutations-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sandesh-09/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sandesh-09/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2974-minimum-number-game](https://github.com/Sandesh-09/DSA/tree/master/2974-minimum-number-game) |
 ## Stack
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/Sandesh-09/DSA/tree/master/0735-asteroid-collision) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sandesh-09/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2974-minimum-number-game](https://github.com/Sandesh-09/DSA/tree/master/2974-minimum-number-game) |
 ## Tree
 |  |
 | ------- |
@@ -279,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sandesh-09/DSA/tree/master/0005-longest-palindromic-substring) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/Sandesh-09/DSA/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
