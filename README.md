@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sandesh-09/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Sandesh-09/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Sandesh-09/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Sandesh-09/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sandesh-09/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Sliding Window
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Sandesh-09/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Sandesh-09/DSA/tree/master/0042-trapping-rain-water) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sandesh-09/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Sandesh-09/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sandesh-09/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1991-find-the-middle-index-in-array](https://github.com/Sandesh-09/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sandesh-09/DSA/tree/master/2104-sum-of-subarray-ranges) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Sandesh-09/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sandesh-09/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Sandesh-09/DSA/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2974-minimum-number-game](https://github.com/Sandesh-09/DSA/tree/master/2974-minimum-number-game) |
