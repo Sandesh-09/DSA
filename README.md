@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sandesh-09/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sandesh-09/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Sandesh-09/DSA/tree/master/2210-count-hills-and-valleys-in-an-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sandesh-09/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Sandesh-09/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/Sandesh-09/DSA/tree/master/2974-minimum-number-game) |
 ## Prefix Sum
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Sandesh-09/DSA/tree/master/0062-unique-paths) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sandesh-09/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sandesh-09/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sandesh-09/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Sorting
 |  |
 | ------- |
