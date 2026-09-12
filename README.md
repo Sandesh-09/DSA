@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sandesh-09/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sandesh-09/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Sandesh-09/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0518-coin-change-ii](https://github.com/Sandesh-09/DSA/tree/master/0518-coin-change-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sandesh-09/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1463-cherry-pickup-ii](https://github.com/Sandesh-09/DSA/tree/master/1463-cherry-pickup-ii) |
 ## Counting
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Sandesh-09/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0496-next-greater-element-i](https://github.com/Sandesh-09/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sandesh-09/DSA/tree/master/0503-next-greater-element-ii) |
+| [0518-coin-change-ii](https://github.com/Sandesh-09/DSA/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Sandesh-09/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Sandesh-09/DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Sandesh-09/DSA/tree/master/0735-asteroid-collision) |
@@ -297,4 +299,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/Sandesh-09/DSA/tree/master/2974-minimum-number-game) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Sandesh-09/DSA/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Sandesh-09/DSA/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
