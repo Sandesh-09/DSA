@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sandesh-09/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sandesh-09/DSA/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Sandesh-09/DSA/tree/master/0044-wildcard-matching) |
+| [0115-distinct-subsequences](https://github.com/Sandesh-09/DSA/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/Sandesh-09/DSA/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/Sandesh-09/DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sandesh-09/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Sandesh-09/DSA/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Sandesh-09/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Sandesh-09/DSA/tree/master/0063-unique-paths-ii) |
+| [0115-distinct-subsequences](https://github.com/Sandesh-09/DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sandesh-09/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sandesh-09/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Sandesh-09/DSA/tree/master/0300-longest-increasing-subsequence) |
