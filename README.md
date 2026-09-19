@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/Sandesh-09/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/Sandesh-09/DSA/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/Sandesh-09/DSA/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/Sandesh-09/DSA/tree/master/3024-type-of-triangle) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sandesh-09/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Sandesh-09/DSA/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Sandesh-09/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3024-type-of-triangle](https://github.com/Sandesh-09/DSA/tree/master/3024-type-of-triangle) |
 ## Sorting
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Sandesh-09/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sandesh-09/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2974-minimum-number-game](https://github.com/Sandesh-09/DSA/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/Sandesh-09/DSA/tree/master/3024-type-of-triangle) |
 ## Stack
 |  |
 | ------- |
@@ -328,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/Sandesh-09/DSA/tree/master/1486-xor-operation-in-an-array) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/Sandesh-09/DSA/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
