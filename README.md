@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Sandesh-09/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sandesh-09/DSA/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Sandesh-09/DSA/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Sandesh-09/DSA/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/Sandesh-09/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Sandesh-09/DSA/tree/master/0063-unique-paths-ii) |
 | [0115-distinct-subsequences](https://github.com/Sandesh-09/DSA/tree/master/0115-distinct-subsequences) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sandesh-09/DSA/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Sandesh-09/DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Sandesh-09/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Sandesh-09/DSA/tree/master/0047-permutations-ii) |
 | [0063-unique-paths-ii](https://github.com/Sandesh-09/DSA/tree/master/0063-unique-paths-ii) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Sandesh-09/DSA/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Sandesh-09/DSA/tree/master/0045-jump-game-ii) |
 | [0402-remove-k-digits](https://github.com/Sandesh-09/DSA/tree/master/0402-remove-k-digits) |
 ## Recursion
 |  |
