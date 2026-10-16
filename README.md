@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sandesh-09/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sandesh-09/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sandesh-09/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sandesh-09/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sandesh-09/DSA/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Sandesh-09/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Sandesh-09/DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Sandesh-09/DSA/tree/master/0046-permutations) |
