@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Sandesh-09/DSA/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/Sandesh-09/DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Sandesh-09/DSA/tree/master/0402-remove-k-digits) |
+| [0412-fizz-buzz](https://github.com/Sandesh-09/DSA/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sandesh-09/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0709-to-lower-case](https://github.com/Sandesh-09/DSA/tree/master/0709-to-lower-case) |
 | [1092-shortest-common-supersequence](https://github.com/Sandesh-09/DSA/tree/master/1092-shortest-common-supersequence) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Sandesh-09/DSA/tree/master/0062-unique-paths) |
+| [0412-fizz-buzz](https://github.com/Sandesh-09/DSA/tree/master/0412-fizz-buzz) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sandesh-09/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sandesh-09/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/Sandesh-09/DSA/tree/master/1486-xor-operation-in-an-array) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Sandesh-09/DSA/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Sandesh-09/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Sandesh-09/DSA/tree/master/0735-asteroid-collision) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sandesh-09/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
