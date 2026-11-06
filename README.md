@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Sandesh-09/DSA/tree/master/0709-to-lower-case) |
 | [1092-shortest-common-supersequence](https://github.com/Sandesh-09/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Sandesh-09/DSA/tree/master/1143-longest-common-subsequence) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Sandesh-09/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sandesh-09/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Sandesh-09/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Sandesh-09/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Sandesh-09/DSA/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sandesh-09/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sandesh-09/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Sandesh-09/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sandesh-09/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Combinatorics
 |  |
