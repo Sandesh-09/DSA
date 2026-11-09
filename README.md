@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Sandesh-09/DSA/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sandesh-09/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0709-to-lower-case](https://github.com/Sandesh-09/DSA/tree/master/0709-to-lower-case) |
+| [0856-score-of-parentheses](https://github.com/Sandesh-09/DSA/tree/master/0856-score-of-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/Sandesh-09/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Sandesh-09/DSA/tree/master/1143-longest-common-subsequence) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Sandesh-09/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Sandesh-09/DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Sandesh-09/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Sandesh-09/DSA/tree/master/0735-asteroid-collision) |
+| [0856-score-of-parentheses](https://github.com/Sandesh-09/DSA/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sandesh-09/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sandesh-09/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Sandesh-09/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sandesh-09/DSA/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Sandesh-09/DSA/tree/master/0856-score-of-parentheses) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
