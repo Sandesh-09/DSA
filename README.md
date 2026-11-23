@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Sandesh-09/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/Sandesh-09/DSA/tree/master/0044-wildcard-matching) |
 | [0394-decode-string](https://github.com/Sandesh-09/DSA/tree/master/0394-decode-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sandesh-09/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -371,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/Sandesh-09/DSA/tree/master/3024-type-of-triangle) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Sandesh-09/DSA/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
